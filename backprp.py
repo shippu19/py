@@ -237,4 +237,3 @@ for i in range(10000):
 #     training_inputs, training_outputs = random.choice(training_sets)
 #     nn.train(training_inputs, training_outputs)
 #     print(i, nn.calculate_total_error(training_sets))
-© 2019 GitHub, Inc.
